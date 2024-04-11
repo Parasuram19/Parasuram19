@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently on my Internship at workiy technologies private limited <br>
+🌟 Passionate Student: Dedicated B.Tech student majoring in Artificial Intelligence and Data Science, constantly seeking opportunities to innovate and learn.<br>
+🚀 Experienced Developer: Experienced in developing innovative solutions, from machine learning models driving website traffic growth to web development projects boosting workforce efficiency.<br>
+💻 Skilled in Technologies: Proficient in Python, TensorFlow, Scikit-Learn, and more, with hands-on experience in various libraries and frameworks.<br>
+📚 Active Contributor: Actively contributing to the tech community through projects like Stock Price Predictor and Voice Recognizer Model for Blinds, aiming to make a positive impact.<br>
+🥇 Recognized Achievements: Recognized for achievements including securing 1st Runner-up position in the Smart India Hackathon 2023, demonstrating problem-solving skills and teamwork.<br>
 
 
 ## 🌐 Socials:
